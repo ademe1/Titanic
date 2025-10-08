@@ -65,10 +65,6 @@ This project explores the Titanic dataset to understand which factors influenced
 
 ---
 
-## 📂 How to Run (Colab)
-1. Upload `titanic.csv` to Colab (left sidebar → Files → Upload).
-2. Run the notebook cells to generate features, charts, and metrics.
-3. Export charts and README to your GitHub repository.
 
 ---
 
