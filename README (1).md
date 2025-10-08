@@ -7,7 +7,7 @@
 ---
 
 ## 🎯 Overview
-This project explores the Titanic dataset to understand which factors influenced survival and builds a logistic regression model to predict whether a passenger survived. It demonstrates the full analytics pipeline—from cleaning and feature engineering to visualization and model evaluation.
+This project explores the Titanic dataset to understand which factors influenced survival and builds a logistic regression model to predict whether a passenger survived. It demonstrates the full analytics pipeline from cleaning and feature engineering to visualization and model evaluation.
 
 ---
 
