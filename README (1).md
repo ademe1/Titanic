@@ -72,8 +72,4 @@ This project explores the Titanic dataset to understand which factors influenced
 
 ---
 
-## ✨ Author
-**Arame Tanor Deme**  
-Energy Engineer → Data Analytics  
-LinkedIn: https://www.linkedin.com/in/arametd  
-Email: demearame@gmail.com
+
