@@ -57,19 +57,15 @@ This project explores the Titanic dataset to understand which factors influenced
 
 ---
 
-## 🚀 Next Steps
-- Compare with **Random Forest** or **XGBoost**
-- Add cross-validation and hyperparameter tuning
-- Build a **Tableau dashboard** for storytelling
-- Package as a **Streamlit app**
+## Data-Driven Takeaways
+
+- 📊 Class Inequality: 1st-class passengers had the highest survival rate → equitable lifeboat access could have saved more in lower classes.
+- 👩🏾‍🦱 Gender Impact: Females survived at far greater rates → structured, inclusive evacuation protocols needed.
+- 👨‍👩‍👧‍👦 Family Advantage: Larger families fared better → coordinated group strategies increase rescue chances.
+- 🧍‍♀️ Isolation Risk: Solo travelers had lower survival → pairing or group assignments improve safety.
+- 💰 Economic Bias: Higher fares correlated with survival → survival should depend on readiness, not wealth.
 
 ---
 
-## 📂 How to Run (Colab)
-1. Upload `titanic.csv` to Colab (left sidebar → Files → Upload).
-2. Run the notebook cells to generate features, charts, and metrics.
-3. Export charts and README to your GitHub repository.
-
----
 
 
